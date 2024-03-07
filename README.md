@@ -3,7 +3,7 @@ Tutoriais detalhados e práticos desde os conceitos básicos até estratégias a
 
 ## Tutoriais Disponíveis:
 
-1. **Introdução à Biblioteca dxlib:**
+[1. **Introdução à Biblioteca dxlib**](https://colab.research.google.com/drive/1tDwkt84SdKTm7w5tAPRGYvMGKwMx5GYK?usp=sharing)
    - Importação da biblioteca e configuração inicial.
    - Manipulação de securities e utilização do SecurityManager.
    - Criação de inventários e geração de sinais de trading.
