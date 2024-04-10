@@ -1,2 +1,4 @@
 dxlib==1.0.19
 jupyter==1.0.0
+pandas
+plotly==5.19.0
